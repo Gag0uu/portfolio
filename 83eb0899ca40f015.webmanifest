@@ -1,19 +1,21 @@
 {
-    "name": "Jesse's Ramen",
-    "short_name": "Jesse's Ramen",
-    "icons": [
-        {
-            "src": "/favicon/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/favicon/android-chrome-256x256.png",
-            "sizes": "256x256",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#ffffff",
+    "name": "Gag0uu Portfolio",
+    "short_name": "Portfolio",
+    "start_url": "./index.html",
+    "display": "standalone",
     "background_color": "#ffffff",
-    "display": "standalone"
-}
+    "theme_color": "#9933ff",
+    "icons": [
+      {
+        "src": "./assets/images/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "./assets/images/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
